@@ -1,2 +1,2 @@
 # MyCalculator
-Simple Calculator with four basic operations.
+Simple Calculator with five basic operations.
